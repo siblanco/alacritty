@@ -6,19 +6,19 @@ window:
     y: 0
 font:
   normal:
-    family: Hack Nerd Font
+    family: FiraCode
     style: Regular
 
   bold:
-    family: Hack Nerd Font
+    family: FiraCode
     style: Bold
 
   italic:
-    family: Hack Nerd Font
+    family: FiraCode
     style: Italic
 
   bold_italic:
-    family: Hack Nerd Font
+    family: FiraCode
     style: Bold Italic
 
   size: 13
