@@ -1,5 +1,5 @@
 import:
-  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+  - ~/.config/alacritty/tokyo-night.yml
 window:
   padding:
     x: 0
